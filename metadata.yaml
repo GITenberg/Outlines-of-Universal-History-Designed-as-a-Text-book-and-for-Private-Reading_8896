@@ -1,0 +1,23 @@
+_repo: Outlines-of-Universal-History-Designed-as-a-Text-book-and-for-Private-Reading_8896
+creator:
+  author:
+    agent_name: Fisher, George Park
+    alias: Fisher, George P. (George Park)
+    birthdate: 1827
+    deathdate: 1909
+    gutenberg_agent_id: '2921'
+    url: http://www.gutenberg.org/2009/agents/2921
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+title: Outlines of Universal History, Designed as a Text-book and for Private Reading
+url: http://www.gutenberg.org/ebooks/8896
